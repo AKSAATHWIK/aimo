@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/aimo/static/js/main.72859d02.js",
+    "static/js/861.e206c2df.js": "/aimo/static/js/861.e206c2df.js",
+    "static/media/FontAwesome.ttf": "/aimo/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Entypo.ttf": "/aimo/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "favicon.ico": "/aimo/favicon.ico",
+    "index.html": "/aimo/index.html",
+    "favicon-32.png": "/aimo/favicon-32.png",
+    "manifest.json": "/aimo/manifest.json",
+    "favicon-16.png": "/aimo/favicon-16.png",
+    "serve.json": "/aimo/serve.json",
+    "main.72859d02.js.map": "/aimo/static/js/main.72859d02.js.map",
+    "861.e206c2df.js.map": "/aimo/static/js/861.e206c2df.js.map"
+  },
+  "entrypoints": [
+    "static/js/861.e206c2df.js",
+    "static/js/main.72859d02.js"
+  ]
+}
